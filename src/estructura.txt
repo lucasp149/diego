@@ -1,0 +1,17 @@
+PAGINA PRINCIPAL CON FOTO Y MENU
+
+- CURRICULUM
+
+- GOLES
+
+- ESTADISTICAS
+
+- FOTOS
+
+- CONTACTO
+
+
+a realizar:
+
+- Girar video Youtube cuando estamos en un celular
+- Convertir menú superior en iconos
